@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("images/backround.jpg");
+	background-color: black;
+	color: white;
+}
+
+.form-container {
+	margin-top: 100px;
+    background: #2b2c3b;
+    padding: 40px;
+    border-radius: 15px;
+}

@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("images/backround.jpg");
+	background-color: black;
+}
+
+.logo {
+	font-weight: bold;
+    color: #ff2e63;
+    font-size: 40px;
+}
+.btn-signin {
+ 	background: linear-gradient(90deg, #ff2e63, #ff5f4d);
+    border: none;
+ 	color: white;
+}
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.main{
+	margin-top: 250px;
+}
+a{
+	color: black;
+}

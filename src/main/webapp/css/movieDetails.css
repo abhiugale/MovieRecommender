@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+.navbar-custom {
+	background-color: #1f1d2b;
+	color: white;
+    font-family: 'Segoe UI', sans-serif;
+    
+}
+.navbar-brand {
+font-weight: bold;
+	color: #ff2e63;
+}
+.nav-link {
+	color: #fff !important;
+}
+.btn-signin {
+	background: linear-gradient(90deg, #ff2e63, #ff5f4d);
+	border: none;
+	color: white;
+}
+
+.poster-img{
+	height: 500px;
+	width: 400px;
+}
+.movie-info{
+	margin-top: 50px;
+	margin-left: 100px;
+	font-size: 20px;
+}
+.movie-card {
+    transition: transform 0.3s ease;
+    border: none;
+    background-color: #1a1a1a;
+    color: white;
+}
+.movie-card:hover {
+    transform: scale(1.03);
+}
+.card-title {
+    font-size: 1rem;
+    font-weight: 600;
+}
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.back{
+	text-style: none;
+	color: black;
+	margin: 20px;
+}
